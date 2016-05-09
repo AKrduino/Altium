@@ -6,3 +6,5 @@ ProjectPath=WS2812\WS2812.PrjPcb
 ProjectPath=Panels_Finished\Panels_Finished.PrjPcb
 [Project3]
 ProjectPath=ESP12Ebreakout\ESP8266-12E_breakout.PrjPcb
+[Project4]
+ProjectPath=..\..\Github\Project2\Hardware\Project2Altium\Project2Altium.PrjPcb
